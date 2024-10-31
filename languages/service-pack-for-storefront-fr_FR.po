@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service Pack for Storefront\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jun 28 2016 04:04:23 GMT+0200 (CEST)\n"
+"PO-Revision-Date: Tue Jul 05 2016 17:49:49 GMT+0200 (CEST)\n"
+"Last-Translator: ClemC <opportus@gmail.com>\n"
+"Language-Team: \n"
+"Language: French (France)\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: fr_FR\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. URI of the plugin
+msgid "https://github.com/opportus/service-pack-for-storefront"
+msgstr "https://github.com/opportus/service-pack-for-storefront\n"
+
+#. Description of the plugin
+msgid "Adds modulable basic functionalities to your WooCommerce/Storefront site."
+msgstr ""
+"Inclut de manière modulaire les fonctionnalités basiques nécessaires à votre "
+"site e-commerce avec WooCommerce/Storefront."
+
+#: ../class-spfs.php:246
+#, php-format
+msgid "Thank you for using %s, hope you enjoy it !"
+msgstr "Merci d'utiliser Service Pack pour Storefront !"
+
+#: ../class-spfs.php:247
+#, php-format
+msgid "If you have a question, a suggestion, or if you need help, here is the %s."
+msgstr ""
+"Si vous avez une question, une suggestion ou encore besoin d'aide, voici le "
+"%s."
+
+#: ../class-spfs.php:247
+msgid "support forum"
+msgstr "forum d'entraide"
+
+#: ../class-spfs.php:248
+#, php-format
+msgid ""
+"To allow me to spend more time developing this plugin for you, a little %s "
+"would be great !"
+msgstr ""
+"Pour me permettre de passer plus de temps à développer ce plugin pour vous, "
+"un petit %s serait d'une aide précieuse !"
+
+#: ../class-spfs.php:248
+msgid "donation"
+msgstr "don"
+
+#. Name of the plugin
+msgid "Service Pack for Storefront"
+msgstr "Service Pack pour Storefront"
+
+#. Author of the plugin
+msgid "opportus"
+msgstr "opportus"
+
+#: ../widgets/class-spfs-widget-social-link.php:34 ../widgets/class-spfs-widget-
+#: newsletter.php:36 ../widgets/class-spfs-widget-facebook-page.php:33
+msgid "Title:"
+msgstr "Titre:"
+
+#: ../widgets/class-spfs-widget-newsletter.php:22
+msgid "Newsletter subscription widget."
+msgstr "Widget d'inscription à la newsletter."
+
+#: ../widgets/class-spfs-widget-newsletter.php:53
+msgid "Your email address"
+msgstr "Votre mail"
+
+#: ../widgets/class-spfs-widget-newsletter.php:73
+msgid "The maximum length of you email address is 50 characters."
+msgstr "La longueur maximale autorisée de l'adresse mail est de 50 caractères."
+
+#: ../widgets/class-spfs-widget-newsletter.php:74
+msgid "Invalid email address."
+msgstr "Adresse mail invalide."
+
+#: ../widgets/class-spfs-widget-newsletter.php:75 ../modules/class-spfs-contact-
+#: form.php:114
+msgid "Don't forget your email address..."
+msgstr "N'oubliez pas votre adresse mail..."
+
+#: ../widgets/class-spfs-widget-newsletter.php:76
+msgid "You are already subcribed to our newsletter..."
+msgstr "Vous vous êtes déjà inscrit à notre newsletter..."
+
+#: ../widgets/class-spfs-widget-newsletter.php:77
+msgid ""
+"Sorry but you can not subscribe to our newsletter because something not "
+"predicted happened, please try again."
+msgstr ""
+"Désolé, un problème est survenu lors de votre inscription à la newsletter, "
+"veuillez ressayer."
+
+#: ../widgets/class-spfs-widget-newsletter.php:78
+msgid "Thank you for subscribing to our newsletter !"
+msgstr "Vous êtes maintenant inscrit à la newsletter."
+
+#: ../admin/class-spfs-settings.php:84
+msgid "Aggregator"
+msgstr "Agrégateur"
+
+#: ../admin/class-spfs-settings.php:87
+msgid ""
+"Aggregates the last blog posts on home page and product reviews in product "
+"category pages."
+msgstr ""
+"Montre les derniers posts sur la page d'accueil et les avis dans les "
+"catégories produit."
+
+#: ../admin/class-spfs-settings.php:91
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+# a
+#: ../admin/class-spfs-settings.php:94
+msgid ""
+"Simple front end contact form. Once activated, add its shortcode on your "
+"\"contact\" page: [spfs_contact_form]"
+msgstr ""
+"Simple formulaire de contact. Une fois le module activé, veillez à inclure "
+"le shortcode [spfs_contact_form] sur votre page de contact."
+
+#: ../admin/class-spfs-settings.php:97
+msgid "Dynamic Sidebar"
+msgstr "Barre latérale dynamique"
+
+#: ../admin/class-spfs-settings.php:100
+msgid ""
+"Adds specific sidebar for product page, product category page, post page, "
+"etc..."
+msgstr ""
+"Ajoute des barres latérales spécifiques aux types de pages: produit, "
+"catégorie produit, post, etc..."
+
+#: ../admin/class-spfs-settings.php:104
+msgid "Float Menu"
+msgstr "Menu flottant"
+
+#: ../admin/class-spfs-settings.php:107
+msgid "Makes the basic storefront navigation menu floating when scrolling down."
+msgstr "Permet de rendre flottant le menu Storefront d'origine."
+
+#: ../admin/class-spfs-settings.php:111 ../modules/class-spfs-order-tracking.php:
+#: 150
+msgid "Order Tracking"
+msgstr "Suivi commande"
+
+#: ../admin/class-spfs-settings.php:114
+msgid ""
+"Gives you and your customers the ability to track simply orders via links "
+"pointing to the shipper's site tracking service."
+msgstr "Permet à vous et vos clients de suivre leurs commandes."
+
+#: ../admin/class-spfs-settings.php:118
+msgid "Sharer"
+msgstr "Sharer"
+
+#: ../admin/class-spfs-settings.php:121
+msgid ""
+"Brings to your customers the possibility to share easily products and blog "
+"posts on their social network accounts."
+msgstr ""
+"Permet à vos visiteurs de partager facilement produits et posts sur leurs "
+"comptes réseaux sociaux."
+
+#: ../admin/class-spfs-settings.php:125
+msgid "Slider"
+msgstr "Slider"
+
+#: ../admin/class-spfs-settings.php:128
+msgid ""
+"Simple slider based on \"Flex Slider\" by WooThemes. Edit slides in the new "
+"menu section."
+msgstr ""
+"Simple slider basé sur \"FlexSlider\" développé par WooThemes. Vous pouvez "
+"créer facilement des slides dans la nouvelle section du menu. "
+
+#: ../admin/class-spfs-settings.php:131 ../modules/class-spfs-store-credit.php:63
+#: ../modules/class-spfs-store-credit.php:192 ../modules/class-spfs-store-credit.
+#: php:365
+msgid "Store Credit"
+msgstr "Système d'avoir"
+
+#: ../admin/class-spfs-settings.php:134
+msgid ""
+"Gives you the ability to create and send by email store credits to your "
+"customers."
+msgstr ""
+"Vous donne la possibilité de créer et d'envoyer par email des avoir à vos "
+"clients."
+
+#: ../admin/class-spfs-settings.php:163
+msgid "My account"
+msgstr "Mon compte"
+
+#: ../admin/class-spfs-settings.php:166
+msgid "Show credits on My Account page."
+msgstr "Montrer les avoir sur la page \"Mon Compte\"."
+
+#: ../admin/class-spfs-settings.php:170
+msgid "Delete after use"
+msgstr "Supprimer après utilisation"
+
+#: ../admin/class-spfs-settings.php:173
+msgid "When the credit is spent, delete it."
+msgstr "Supprimer l'avoir quand il est épuisé."
+
+#: ../admin/class-spfs-settings.php:177
+msgid "Apply before taxes"
+msgstr "Appliquer avant les taxes"
+
+#: ../admin/class-spfs-settings.php:180
+msgid "Apply the credit before taxes."
+msgstr "Appliquer l'avoir avant les taxes."
+
+#: ../admin/class-spfs-settings.php:184
+msgid "Individual usage"
+msgstr "Utilisation individuelle"
+
+#: ../admin/class-spfs-settings.php:190
+msgid "Shipper's Name"
+msgstr "Nom du transporteur"
+
+#: ../admin/class-spfs-settings.php:193
+msgid ""
+"Enter the name of the new shipper. Note that it will be displayed as such to "
+"your customer."
+msgstr ""
+"Indiquez le nom du nouveau transporteur. Veuillez noter qu'il sera vu tel "
+"quel par vos clients."
+
+#: ../admin/class-spfs-settings.php:197
+msgid "Shipper's URL"
+msgstr "URL du transporteur"
+
+#: ../admin/class-spfs-settings.php:200
+msgid ""
+"Add the new shipper's tracking service URL. Eg for FEDEX: http://www.fedex."
+"com/Tracking?action=track&tracknumbers=<br />More examples <a href=\"http:"
+"//verysimple.com/2011/07/06/ups-tracking-url/\" rel=\"nofollow\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"Indiquez l'URL du service de suivi en ligne du transporteur. Par exemple "
+"pour Colissimo: http://www.colissimo.fr/portail_colissimo/suivre.do?"
+"colispart="
+
+#: ../admin/class-spfs-settings.php:220
+msgid "Modules Activation"
+msgstr "Activation des modules"
+
+#: ../admin/class-spfs-settings.php:221
+msgid "Enable/Disable the modules below..."
+msgstr "Activez/Désactivez les modules ci-dessous."
+
+#: ../admin/class-spfs-settings.php:224
+msgid "Social Network"
+msgstr "Réseaux sociaux"
+
+#: ../admin/class-spfs-settings.php:225
+msgid "Your social network pages URLs..."
+msgstr ""
+"Indiquez les liens vers les pages réseaux sociaux de votre site ou "
+"entreprise."
+
+#: ../admin/class-spfs-settings.php:228
+msgid "Module - Store Credit"
+msgstr "Module - Système d'avoir"
+
+#: ../admin/class-spfs-settings.php:229
+msgid "Store credit settings"
+msgstr "Paramétrez ici le système d'avoir"
+
+#: ../admin/class-spfs-settings.php:233
+msgid "Module - Order Tracking"
+msgstr "Module - Suivi des commandes"
+
+#: ../admin/class-spfs-settings.php:234
+msgid ""
+"In this section, you can add new shippers and/or edit the shippers "
+"previously created.<br />Once the shippers created, go on the \"Edit Order\" "
+"page, in the new \"Order Tracking\" metabox on the right panel, select the "
+"shipper's name and enter your tracking number.<br />Now, your customers have "
+"the possibility to track their orders with a simple click from their account "
+"page or from their updated order status email they will get."
+msgstr ""
+"Dans cette section vous pouvez ajouter des nouveaux transporteurs et/ou "
+"éditer les transporteurs créés précédemment.<br />Une fois les transporteurs "
+"créés, vous trouverez une nouvelle boite de dialogue nommée \"Suivi commande\" "
+"sur la barre latérale droite de vos commandes. Vous pourrez ainsi y "
+"sélectionner le nom du transporteur et rentrer le numéro de suivi de la "
+"commande.<br />Ainsi vos clients auront la possibilité de suivre leurs "
+"commandes par un simple clic sur leur page \"Mon Compte\" ou sur le mail "
+"WooCommerce qu'ils recevront lorsque vous passez l'état de la commande à "
+"\"Terminée\"."
+
+#: ../admin/class-spfs-settings.php:452
+#, php-format
+msgid "Require %s."
+msgstr "Nécessite %s."
+
+#: ../modules/class-spfs-dynamic-sidebar.php:126
+msgid "Blog Sidebar"
+msgstr "Barre latérale du blog"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:128
+msgid "Sidebar displaying on your blog."
+msgstr "Barre latérale du blog."
+
+#: ../modules/class-spfs-dynamic-sidebar.php:135
+msgid "Page Sidebar"
+msgstr "Barre latérale des pages"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:137
+msgid "Sidebar displaying on single pages."
+msgstr "Barre latérale des pages."
+
+#: ../modules/class-spfs-dynamic-sidebar.php:144
+msgid "Top Footer 1"
+msgstr "Top Footer 1"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:146
+msgid "Top footer row-1 column-1"
+msgstr "Top Footer ligne-1 colonne-1"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:153
+msgid "Top Footer 2"
+msgstr "Top Footer 2"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:155
+msgid "Top footer row-1 column-2"
+msgstr "Top Footer ligne-1 colonne-2"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:162
+msgid "Top Footer 3"
+msgstr "Top Footer 3"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:164
+msgid "Top footer row-2 column-1"
+msgstr "Top Footer ligne-2 colonne-1"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:171
+msgid "Top Footer 4"
+msgstr "Top Footer 4"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:173
+msgid "Top footer row-2 column-2"
+msgstr "Top Footer ligne-2 colonne-2"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:183
+msgid "Product Category Sidebar"
+msgstr "Barre latérale des catégories produit"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:185
+msgid "Sidebar displaying on product categories."
+msgstr "Barre latérale des catégories produit."
+
+#: ../modules/class-spfs-dynamic-sidebar.php:192
+msgid "Product Sidebar"
+msgstr "Barre latérale des produits"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:194
+msgid "Sidebar displaying on product page."
+msgstr "Barre latérale des produits."
+
+#: ../modules/class-spfs-dynamic-sidebar.php:201
+msgid "Special Sidebar"
+msgstr "Barre latérale spéciale"
+
+#: ../modules/class-spfs-dynamic-sidebar.php:203
+msgid "Sidebar displaying on my account, checkout, and cart pages."
+msgstr ""
+"Barre latérale des pages spéciales WooCommerce: \"Mon Compte\", \"Commande\" et "
+"\"Panier\"."
+
+#: ../modules/class-spfs-slider.php:91
+msgctxt "post type general name"
+msgid "Slides"
+msgstr "Slides"
+
+#: ../modules/class-spfs-slider.php:92
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr "Slide"
+
+#: ../modules/class-spfs-slider.php:93 ../modules/class-spfs-slider.php:94
+msgid "Add New Slide"
+msgstr "Ajouter un nouveau slide"
+
+#: ../modules/class-spfs-slider.php:95
+msgid "Edit Slide"
+msgstr "Modifier le slide"
+
+#: ../modules/class-spfs-slider.php:96
+msgid "New Slide"
+msgstr "Nouveau slide"
+
+#: ../modules/class-spfs-slider.php:97
+msgid "View Slide"
+msgstr "Voir le slide"
+
+#: ../modules/class-spfs-slider.php:98
+msgid "Search Slides"
+msgstr "Chercher les slides"
+
+#: ../modules/class-spfs-slider.php:99 ../modules/class-spfs-slider.php:100 ..
+#: modules/class-spfs-slider.php:101 ../modules/class-spfs-slider.php:108
+msgid "Slide"
+msgstr "Slide"
+
+#: ../modules/class-spfs-slider.php:102
+msgid "Slides"
+msgstr "Slides"
+
+#: ../modules/class-spfs-aggregator.php:80
+msgid "Blog"
+msgstr "Blog"
+
+#: ../modules/class-spfs-aggregator.php:156
+msgid "Reviews"
+msgstr "Avis"
+
+#: ../modules/class-spfs-aggregator.php:195
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Noté %s sur 5"
+
+#: ../modules/class-spfs-aggregator.php:196
+msgid "out of 5"
+msgstr "sur 5"
+
+#: ../modules/class-spfs-order-tracking.php:163
+#, php-format
+msgid "You first need to add new shippers on the %s."
+msgstr "Vous devez d'abord ajouter des transporteurs sur la %."
+
+#: ../modules/class-spfs-order-tracking.php:163
+msgid "settings page"
+msgstr "page des options"
+
+#: ../modules/class-spfs-order-tracking.php:169
+msgid "Select the shipper, enter your tracking number and save..."
+msgstr "Sélectionnez le transporteur, entrez le numéro de suivi et sauvegardez..."
+
+#: ../modules/class-spfs-order-tracking.php:170
+msgid "Shipper"
+msgstr "Transporteur"
+
+#: ../modules/class-spfs-order-tracking.php:172
+msgid "Select the shipper"
+msgstr "Sélectionnez le transporteur"
+
+#: ../modules/class-spfs-order-tracking.php:182
+msgid "Tracking number"
+msgstr "Numéro de suivi"
+
+#: ../modules/class-spfs-order-tracking.php:186
+msgid "Track it"
+msgstr "Suivre la commande"
+
+#: ../modules/class-spfs-order-tracking.php:219
+msgid "Invalid / Missing tracking number or tracking shipper"
+msgstr "Numéro de suivi ou transporteur invalide ou manquant"
+
+#: ../modules/class-spfs-order-tracking.php:234
+msgid "Tracking information"
+msgstr "Information de Suivi"
+
+#: ../modules/class-spfs-order-tracking.php:235
+msgid "You can track anytime your order by clicking"
+msgstr "Vous pouvez suivre votre commande à tout moment en cliquant"
+
+#: ../modules/class-spfs-order-tracking.php:235 ../modules/class-spfs-order-
+#: tracking.php:264
+msgid "here"
+msgstr "ici"
+
+#: ../modules/class-spfs-order-tracking.php:261
+#, php-format
+msgid "Order N° %s"
+msgstr "Commande N° %s"
+
+#: ../modules/class-spfs-order-tracking.php:262
+#, php-format
+msgid "Sent by %s"
+msgstr "Expédiée par %s"
+
+#: ../modules/class-spfs-order-tracking.php:263
+#, php-format
+msgid "Tracking number: %s"
+msgstr "Numéro de suivi: %s"
+
+#: ../modules/class-spfs-order-tracking.php:264
+#, php-format
+msgid "You can track anytime you order by clicking %s"
+msgstr "Vous pouvez suivre votre commande à tout moment en cliquant %s"
+
+#: ../modules/class-spfs-order-tracking.php:275
+msgid "My trackings"
+msgstr "Mes suivis"
+
+#: ../modules/class-spfs-sharer.php:63
+#, php-format
+msgid "Share on %s..."
+msgstr "Partagez sur %s..."
+
+#: ../modules/class-spfs-contact-form.php:70
+msgid "Email"
+msgstr "Email"
+
+#: ../modules/class-spfs-contact-form.php:70 ../modules/class-spfs-contact-form.
+#: php:77
+msgid "Required"
+msgstr "Requis"
+
+#: ../modules/class-spfs-contact-form.php:72 ../modules/class-spfs-contact-form.
+#: php:162
+msgid "Name"
+msgstr "Nom"
+
+#: ../modules/class-spfs-contact-form.php:77
+msgid "Message"
+msgstr "Message"
+
+#: ../modules/class-spfs-contact-form.php:108
+msgid "The max length for your email address is 30 characters."
+msgstr "La longueur maximale autorisée de l'adresse mail est de 30 caractères."
+
+#: ../modules/class-spfs-contact-form.php:109
+msgid "The max length for your message is 2000 characters."
+msgstr ""
+"La longueur maximale autorisée de votre message message est de 2000 "
+"caractères."
+
+#: ../modules/class-spfs-contact-form.php:110
+msgid "The max length for your name is 30 characters."
+msgstr "La longueur maximale autorisée de votre  nom est de 30 caractères."
+
+#: ../modules/class-spfs-contact-form.php:111
+msgid "Invalid email."
+msgstr "Adresse mail invalide."
+
+#: ../modules/class-spfs-contact-form.php:112
+msgid "Invalid message."
+msgstr "Message invalide."
+
+#: ../modules/class-spfs-contact-form.php:113
+msgid "Invalid name."
+msgstr "Nom invalide."
+
+#: ../modules/class-spfs-contact-form.php:115
+msgid "Don't forget your message..."
+msgstr "N'oubliez pas votre message..."
+
+#: ../modules/class-spfs-contact-form.php:116
+msgid "Your message has not been sent. Please, try again..."
+msgstr "Désolé, votre message n'a pas pu être envoyé, merci de ressayer."
+
+#: ../modules/class-spfs-contact-form.php:117
+msgid ""
+"Your message has successfully been sent. We will reply to you as soon as "
+"possible."
+msgstr ""
+"Votre message a bien été envoyé. Nous vous répondrons dans les plus brefs "
+"délais."
+
+#: ../modules/class-spfs-contact-form.php:175
+msgid "You have got an email from"
+msgstr "Vous avez reçu un mail de"
+
+#: ../modules/class-spfs-store-credit.php:76 ../modules/class-spfs-store-credit.
+#: php:77 ../modules/class-spfs-store-credit.php:90
+msgid "Send Credits"
+msgstr "Envoyer un avoir"
+
+#: ../modules/class-spfs-store-credit.php:94
+msgid "Email address"
+msgstr "Adresse mail"
+
+#: ../modules/class-spfs-store-credit.php:98
+msgid "Amount of the credit"
+msgstr "Montant du crédit"
+
+#: ../modules/class-spfs-store-credit.php:103
+msgid "Generate a store credit and mail it to your customer"
+msgstr "Générer un avoir et l'envoyer par mail à mon client"
+
+#: ../modules/class-spfs-store-credit.php:124
+msgid "Invalid email address"
+msgstr "Adresse mail invalide"
+
+#: ../modules/class-spfs-store-credit.php:128
+msgid "Invalid amount"
+msgstr "Montant invalide"
+
+#: ../modules/class-spfs-store-credit.php:160
+msgid "Credit sent."
+msgstr "L'avoir a bien été envoyé."
+
+#: ../modules/class-spfs-store-credit.php:193
+#, php-format
+msgid "You have got a credit of %s "
+msgstr "Vous avez reçu un avoir de %s"
+
+#: ../modules/class-spfs-store-credit.php:211
+msgid ""
+"To use your store credit, please, enter the following discount code during "
+"your next checkout"
+msgstr ""
+"Pour utiliser votre avoir, merci d'entrer le code promo suivant lors de "
+"votre prochaine commande"
+
+#: ../modules/class-spfs-store-credit.php:232
+msgid "My Store Credits"
+msgstr "Mes avoirs"
+
+#: ../modules/class-spfs-store-credit.php:295
+msgid "Your credit is over."
+msgstr "Votre avoir est épuisé."
